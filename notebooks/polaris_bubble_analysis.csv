@@ -1,0 +1,90 @@
+year,region,theme,album_count,sample_artists,hover_text,bubble_size
+2020,Alberta,Identity & Heritage,1,nêhiyawak,<b>2020 | Alberta</b><br><b>Theme:</b> Identity & Heritage<br><b>Albums:</b> 1<br><b>Artists:</b> nêhiyawak,10
+2020,Alberta,Social Commentary,1,Wares,<b>2020 | Alberta</b><br><b>Theme:</b> Social Commentary<br><b>Albums:</b> 1<br><b>Artists:</b> Wares,10
+2020,Manitoba,Introspection & Philosophy,2,"Begonia, William Prince","<b>2020 | Manitoba</b><br><b>Theme:</b> Introspection & Philosophy<br><b>Albums:</b> 2<br><b>Artists:</b> Begonia, William Prince",16
+2020,Nova Scotia,Identity & Heritage,1,P'tit Belliveau,<b>2020 | Nova Scotia</b><br><b>Theme:</b> Identity & Heritage<br><b>Albums:</b> 1<br><b>Artists:</b> P'tit Belliveau,10
+2020,Nova Scotia,Place & Landscape,1,Joel Plaskett,<b>2020 | Nova Scotia</b><br><b>Theme:</b> Place & Landscape<br><b>Albums:</b> 1<br><b>Artists:</b> Joel Plaskett,10
+2020,Nova Scotia,Social Commentary,1,Aquakultre,<b>2020 | Nova Scotia</b><br><b>Theme:</b> Social Commentary<br><b>Albums:</b> 1<br><b>Artists:</b> Aquakultre,10
+2020,Nunavut,Identity & Heritage,1,Riit,<b>2020 | Nunavut</b><br><b>Theme:</b> Identity & Heritage<br><b>Albums:</b> 1<br><b>Artists:</b> Riit,10
+2020,Ontario,Experimental & Abstract,4,"Cindy Lee, Badge Époque Ensemble, Super Duty Tough Work","<b>2020 | Ontario</b><br><b>Theme:</b> Experimental & Abstract<br><b>Albums:</b> 4<br><b>Artists:</b> Cindy Lee, Badge Époque Ensemble, Super Duty Tough Work",32
+2020,Ontario,Identity & Heritage,4,"Pantayo, Lido Pimienta, WHOOP-Szo","<b>2020 | Ontario</b><br><b>Theme:</b> Identity & Heritage<br><b>Albums:</b> 4<br><b>Artists:</b> Pantayo, Lido Pimienta, WHOOP-Szo",32
+2020,Ontario,Introspection & Philosophy,4,"Owen Pallett, Witch Prophet, Allie X","<b>2020 | Ontario</b><br><b>Theme:</b> Introspection & Philosophy<br><b>Albums:</b> 4<br><b>Artists:</b> Owen Pallett, Witch Prophet, Allie X",32
+2020,Ontario,Love & Relationships,5,"Caribou, The Weeknd, Jessie Reyez","<b>2020 | Ontario</b><br><b>Theme:</b> Love & Relationships<br><b>Albums:</b> 5<br><b>Artists:</b> Caribou, The Weeknd, Jessie Reyez",40
+2020,Ontario,Place & Landscape,1,Sarah Harmer,<b>2020 | Ontario</b><br><b>Theme:</b> Place & Landscape<br><b>Albums:</b> 1<br><b>Artists:</b> Sarah Harmer,10
+2020,Ontario,Social Commentary,3,"U.S. Girls, Ice Cream, Junia-T","<b>2020 | Ontario</b><br><b>Theme:</b> Social Commentary<br><b>Albums:</b> 3<br><b>Artists:</b> U.S. Girls, Ice Cream, Junia-T",24
+2020,Quebec,Experimental & Abstract,2,"Kaytranada, Jacques Greene","<b>2020 | Quebec</b><br><b>Theme:</b> Experimental & Abstract<br><b>Albums:</b> 2<br><b>Artists:</b> Kaytranada, Jacques Greene",16
+2020,Quebec,Introspection & Philosophy,1,Leif Vollebekk,<b>2020 | Quebec</b><br><b>Theme:</b> Introspection & Philosophy<br><b>Albums:</b> 1<br><b>Artists:</b> Leif Vollebekk,10
+2020,Quebec,Love & Relationships,3,"Men I Trust, Marie-Pierre Arthur, Louis-Jean Cormier","<b>2020 | Quebec</b><br><b>Theme:</b> Love & Relationships<br><b>Albums:</b> 3<br><b>Artists:</b> Men I Trust, Marie-Pierre Arthur, Louis-Jean Cormier",24
+2020,Quebec,Place & Landscape,2,"Corridor, Flore Laurentienne","<b>2020 | Quebec</b><br><b>Theme:</b> Place & Landscape<br><b>Albums:</b> 2<br><b>Artists:</b> Corridor, Flore Laurentienne",16
+2020,Quebec,Social Commentary,2,"Backxwash, Chocolat","<b>2020 | Quebec</b><br><b>Theme:</b> Social Commentary<br><b>Albums:</b> 2<br><b>Artists:</b> Backxwash, Chocolat",16
+2020,Saskatchewan,Introspection & Philosophy,1,Andy Shauf,<b>2020 | Saskatchewan</b><br><b>Theme:</b> Introspection & Philosophy<br><b>Albums:</b> 1<br><b>Artists:</b> Andy Shauf,10
+2021,Alberta,Social Commentary,1,Cadence Weapon,<b>2021 | Alberta</b><br><b>Theme:</b> Social Commentary<br><b>Albums:</b> 1<br><b>Artists:</b> Cadence Weapon,10
+2021,British Columbia,Place & Landscape,1,Yu Su,<b>2021 | British Columbia</b><br><b>Theme:</b> Place & Landscape<br><b>Albums:</b> 1<br><b>Artists:</b> Yu Su,10
+2021,British Columbia,Social Commentary,1,Art Bergmann,<b>2021 | British Columbia</b><br><b>Theme:</b> Social Commentary<br><b>Albums:</b> 1<br><b>Artists:</b> Art Bergmann,10
+2021,Nova Scotia,Experimental & Abstract,1,Fiver with the Atlantic School of Spontaneous Composition,<b>2021 | Nova Scotia</b><br><b>Theme:</b> Experimental & Abstract<br><b>Albums:</b> 1<br><b>Artists:</b> Fiver with the Atlantic School of Spontaneous Composition,10
+2021,Ontario,Experimental & Abstract,4,"Bernice, Elliot Maginot, Dorothea Paas","<b>2021 | Ontario</b><br><b>Theme:</b> Experimental & Abstract<br><b>Albums:</b> 4<br><b>Artists:</b> Bernice, Elliot Maginot, Dorothea Paas",32
+2021,Ontario,Identity & Heritage,4,"Leanne Betasamosake Simpson, NYSSA, Julian Taylor","<b>2021 | Ontario</b><br><b>Theme:</b> Identity & Heritage<br><b>Albums:</b> 4<br><b>Artists:</b> Leanne Betasamosake Simpson, NYSSA, Julian Taylor",32
+2021,Ontario,Introspection & Philosophy,4,"Kathleen Edwards, Thanya Iyer, Mustafa","<b>2021 | Ontario</b><br><b>Theme:</b> Introspection & Philosophy<br><b>Albums:</b> 4<br><b>Artists:</b> Kathleen Edwards, Thanya Iyer, Mustafa",32
+2021,Ontario,Love & Relationships,2,"Rochelle Jordan, Savannah Ré","<b>2021 | Ontario</b><br><b>Theme:</b> Love & Relationships<br><b>Albums:</b> 2<br><b>Artists:</b> Rochelle Jordan, Savannah Ré",16
+2021,Ontario,Place & Landscape,2,"Daniel Lanois, The Weather Station","<b>2021 | Ontario</b><br><b>Theme:</b> Place & Landscape<br><b>Albums:</b> 2<br><b>Artists:</b> Daniel Lanois, The Weather Station",16
+2021,Ontario,Social Commentary,6,"Clairmont The Second, DijahSB, LAL","<b>2021 | Ontario</b><br><b>Theme:</b> Social Commentary<br><b>Albums:</b> 6<br><b>Artists:</b> Clairmont The Second, DijahSB, LAL",48
+2021,Prince Edward Island,Identity & Heritage,1,Russell Louder,<b>2021 | Prince Edward Island</b><br><b>Theme:</b> Identity & Heritage<br><b>Albums:</b> 1<br><b>Artists:</b> Russell Louder,10
+2021,Quebec,Experimental & Abstract,4,"Big Brave, CFCF, Yves Jarvis","<b>2021 | Quebec</b><br><b>Theme:</b> Experimental & Abstract<br><b>Albums:</b> 4<br><b>Artists:</b> Big Brave, CFCF, Yves Jarvis",32
+2021,Quebec,Identity & Heritage,2,"Laura Niquay, Allison Russell","<b>2021 | Quebec</b><br><b>Theme:</b> Identity & Heritage<br><b>Albums:</b> 2<br><b>Artists:</b> Laura Niquay, Allison Russell",16
+2021,Quebec,Love & Relationships,4,"Charlotte Cardin, Helena Deland, Dominique Fils-Aimé","<b>2021 | Quebec</b><br><b>Theme:</b> Love & Relationships<br><b>Albums:</b> 4<br><b>Artists:</b> Charlotte Cardin, Helena Deland, Dominique Fils-Aimé",32
+2021,Quebec,Place & Landscape,3,"The Besnard Lakes, Thierry Larose, Klô Pelgag","<b>2021 | Quebec</b><br><b>Theme:</b> Place & Landscape<br><b>Albums:</b> 3<br><b>Artists:</b> The Besnard Lakes, Thierry Larose, Klô Pelgag",24
+2022,Alberta,Identity & Heritage,1,Orville Peck,<b>2022 | Alberta</b><br><b>Theme:</b> Identity & Heritage<br><b>Albums:</b> 1<br><b>Artists:</b> Orville Peck,10
+2022,British Columbia,Introspection & Philosophy,1,Destroyer,<b>2022 | British Columbia</b><br><b>Theme:</b> Introspection & Philosophy<br><b>Albums:</b> 1<br><b>Artists:</b> Destroyer,10
+2022,British Columbia,Social Commentary,1,Snotty Nose Rez Kids,<b>2022 | British Columbia</b><br><b>Theme:</b> Social Commentary<br><b>Albums:</b> 1<br><b>Artists:</b> Snotty Nose Rez Kids,10
+2022,New Brunswick,Identity & Heritage,1,Lisa Leblanc,<b>2022 | New Brunswick</b><br><b>Theme:</b> Identity & Heritage<br><b>Albums:</b> 1<br><b>Artists:</b> Lisa Leblanc,10
+2022,New Brunswick,Love & Relationships,1,Julie Doiron,<b>2022 | New Brunswick</b><br><b>Theme:</b> Love & Relationships<br><b>Albums:</b> 1<br><b>Artists:</b> Julie Doiron,10
+2022,Nova Scotia,Identity & Heritage,1,P'tit Belliveau,<b>2022 | Nova Scotia</b><br><b>Theme:</b> Identity & Heritage<br><b>Albums:</b> 1<br><b>Artists:</b> P'tit Belliveau,10
+2022,Nunavut,Identity & Heritage,1,Tanya Tagaq,<b>2022 | Nunavut</b><br><b>Theme:</b> Identity & Heritage<br><b>Albums:</b> 1<br><b>Artists:</b> Tanya Tagaq,10
+2022,Ontario,Experimental & Abstract,1,BADBADNOTGOOD,<b>2022 | Ontario</b><br><b>Theme:</b> Experimental & Abstract<br><b>Albums:</b> 1<br><b>Artists:</b> BADBADNOTGOOD,10
+2022,Ontario,Identity & Heritage,3,"AHI, The Halluci Nation, Ombiigizi","<b>2022 | Ontario</b><br><b>Theme:</b> Identity & Heritage<br><b>Albums:</b> 3<br><b>Artists:</b> AHI, The Halluci Nation, Ombiigizi",24
+2022,Ontario,Introspection & Philosophy,4,"Joyful Joyful, Luna Li, PUP","<b>2022 | Ontario</b><br><b>Theme:</b> Introspection & Philosophy<br><b>Albums:</b> 4<br><b>Artists:</b> Joyful Joyful, Luna Li, PUP",32
+2022,Ontario,Love & Relationships,7,"Basia Bulat, Tanika Charles, Adria Kain","<b>2022 | Ontario</b><br><b>Theme:</b> Love & Relationships<br><b>Albums:</b> 7<br><b>Artists:</b> Basia Bulat, Tanika Charles, Adria Kain",56
+2022,Ontario,Place & Landscape,1,Kelly McMichael,<b>2022 | Ontario</b><br><b>Theme:</b> Place & Landscape<br><b>Albums:</b> 1<br><b>Artists:</b> Kelly McMichael,10
+2022,Ontario,Social Commentary,2,"Haviah Mighty, SATE","<b>2022 | Ontario</b><br><b>Theme:</b> Social Commentary<br><b>Albums:</b> 2<br><b>Artists:</b> Haviah Mighty, SATE",16
+2022,Quebec,Experimental & Abstract,4,"Hubert Lenoir, myst milano., Ouri","<b>2022 | Quebec</b><br><b>Theme:</b> Experimental & Abstract<br><b>Albums:</b> 4<br><b>Artists:</b> Hubert Lenoir, myst milano., Ouri",32
+2022,Quebec,Identity & Heritage,1,Pierre Kwenders,<b>2022 | Quebec</b><br><b>Theme:</b> Identity & Heritage<br><b>Albums:</b> 1<br><b>Artists:</b> Pierre Kwenders,10
+2022,Quebec,Introspection & Philosophy,2,"Jean-Michel Blais, Ada Lea","<b>2022 | Quebec</b><br><b>Theme:</b> Introspection & Philosophy<br><b>Albums:</b> 2<br><b>Artists:</b> Jean-Michel Blais, Ada Lea",16
+2022,Quebec,Love & Relationships,3,"Lydia Képinski, Les Louanges, Men I Trust","<b>2022 | Quebec</b><br><b>Theme:</b> Love & Relationships<br><b>Albums:</b> 3<br><b>Artists:</b> Lydia Képinski, Les Louanges, Men I Trust",24
+2022,Quebec,Place & Landscape,1,Stars,<b>2022 | Quebec</b><br><b>Theme:</b> Place & Landscape<br><b>Albums:</b> 1<br><b>Artists:</b> Stars,10
+2022,Quebec,Social Commentary,3,"Arcade Fire, Backxwash, Chiiild","<b>2022 | Quebec</b><br><b>Theme:</b> Social Commentary<br><b>Albums:</b> 3<br><b>Artists:</b> Arcade Fire, Backxwash, Chiiild",24
+2022,Saskatchewan,Experimental & Abstract,1,The Garrys,<b>2022 | Saskatchewan</b><br><b>Theme:</b> Experimental & Abstract<br><b>Albums:</b> 1<br><b>Artists:</b> The Garrys,10
+2023,Alberta,Identity & Heritage,1,Ghostkeeper,<b>2023 | Alberta</b><br><b>Theme:</b> Identity & Heritage<br><b>Albums:</b> 1<br><b>Artists:</b> Ghostkeeper,10
+2023,Alberta,Place & Landscape,1,Mariel Buckley,<b>2023 | Alberta</b><br><b>Theme:</b> Place & Landscape<br><b>Albums:</b> 1<br><b>Artists:</b> Mariel Buckley,10
+2023,British Columbia,Experimental & Abstract,1,Khotin,<b>2023 | British Columbia</b><br><b>Theme:</b> Experimental & Abstract<br><b>Albums:</b> 1<br><b>Artists:</b> Khotin,10
+2023,British Columbia,Place & Landscape,1,Dan Mangan,<b>2023 | British Columbia</b><br><b>Theme:</b> Place & Landscape<br><b>Albums:</b> 1<br><b>Artists:</b> Dan Mangan,10
+2023,British Columbia,Social Commentary,1,Snotty Nose Rez Kids,<b>2023 | British Columbia</b><br><b>Theme:</b> Social Commentary<br><b>Albums:</b> 1<br><b>Artists:</b> Snotty Nose Rez Kids,10
+2023,Manitoba,Introspection & Philosophy,1,Begonia,<b>2023 | Manitoba</b><br><b>Theme:</b> Introspection & Philosophy<br><b>Albums:</b> 1<br><b>Artists:</b> Begonia,10
+2023,Nova Scotia,Social Commentary,1,Aquakultre,<b>2023 | Nova Scotia</b><br><b>Theme:</b> Social Commentary<br><b>Albums:</b> 1<br><b>Artists:</b> Aquakultre,10
+2023,Ontario,Experimental & Abstract,1,Badge Époque Ensemble,<b>2023 | Ontario</b><br><b>Theme:</b> Experimental & Abstract<br><b>Albums:</b> 1<br><b>Artists:</b> Badge Époque Ensemble,10
+2023,Ontario,Identity & Heritage,2,"Aysanabee, Zoon","<b>2023 | Ontario</b><br><b>Theme:</b> Identity & Heritage<br><b>Albums:</b> 2<br><b>Artists:</b> Aysanabee, Zoon",16
+2023,Ontario,Introspection & Philosophy,6,"Debby Friday, Feist, Eliza Niemi","<b>2023 | Ontario</b><br><b>Theme:</b> Introspection & Philosophy<br><b>Albums:</b> 6<br><b>Artists:</b> Debby Friday, Feist, Eliza Niemi",48
+2023,Ontario,Love & Relationships,6,"Daniel Caesar, Jessie Reyez, ALL HANDS_MAKE LIGHT","<b>2023 | Ontario</b><br><b>Theme:</b> Love & Relationships<br><b>Albums:</b> 6<br><b>Artists:</b> Daniel Caesar, Jessie Reyez, ALL HANDS_MAKE LIGHT",48
+2023,Ontario,Place & Landscape,2,"Alvvays, The Sadies","<b>2023 | Ontario</b><br><b>Theme:</b> Place & Landscape<br><b>Albums:</b> 2<br><b>Artists:</b> Alvvays, The Sadies",16
+2023,Ontario,Social Commentary,4,"Home Front, Tami Neilson, Jairus Sharif","<b>2023 | Ontario</b><br><b>Theme:</b> Social Commentary<br><b>Albums:</b> 4<br><b>Artists:</b> Home Front, Tami Neilson, Jairus Sharif",32
+2023,Quebec,Experimental & Abstract,2,"BIG|BRAVE, Yoo Doo Right","<b>2023 | Quebec</b><br><b>Theme:</b> Experimental & Abstract<br><b>Albums:</b> 2<br><b>Artists:</b> BIG|BRAVE, Yoo Doo Right",16
+2023,Quebec,Identity & Heritage,1,Gayance,<b>2023 | Quebec</b><br><b>Theme:</b> Identity & Heritage<br><b>Albums:</b> 1<br><b>Artists:</b> Gayance,10
+2023,Quebec,Introspection & Philosophy,2,"Chiiild, N NAO","<b>2023 | Quebec</b><br><b>Theme:</b> Introspection & Philosophy<br><b>Albums:</b> 2<br><b>Artists:</b> Chiiild, N NAO",16
+2023,Quebec,Love & Relationships,4,"Philippe Brach, Bibi Club, Isabella Lovestory","<b>2023 | Quebec</b><br><b>Theme:</b> Love & Relationships<br><b>Albums:</b> 4<br><b>Artists:</b> Philippe Brach, Bibi Club, Isabella Lovestory",32
+2023,Quebec,Place & Landscape,2,"Thierry Larose, Murray Lightburn","<b>2023 | Quebec</b><br><b>Theme:</b> Place & Landscape<br><b>Albums:</b> 2<br><b>Artists:</b> Thierry Larose, Murray Lightburn",16
+2023,Saskatchewan,Introspection & Philosophy,1,Andy Shauf,<b>2023 | Saskatchewan</b><br><b>Theme:</b> Introspection & Philosophy<br><b>Albums:</b> 1<br><b>Artists:</b> Andy Shauf,10
+2024,Alberta,Identity & Heritage,1,Shane Ghostkeeper,<b>2024 | Alberta</b><br><b>Theme:</b> Identity & Heritage<br><b>Albums:</b> 1<br><b>Artists:</b> Shane Ghostkeeper,10
+2024,British Columbia,Introspection & Philosophy,1,Haley Blais,<b>2024 | British Columbia</b><br><b>Theme:</b> Introspection & Philosophy<br><b>Albums:</b> 1<br><b>Artists:</b> Haley Blais,10
+2024,Manitoba,Social Commentary,1,KEN mode,<b>2024 | Manitoba</b><br><b>Theme:</b> Social Commentary<br><b>Albums:</b> 1<br><b>Artists:</b> KEN mode,10
+2024,New Brunswick,Identity & Heritage,1,Jeremy Dutcher,<b>2024 | New Brunswick</b><br><b>Theme:</b> Identity & Heritage<br><b>Albums:</b> 1<br><b>Artists:</b> Jeremy Dutcher,10
+2024,New Brunswick,Introspection & Philosophy,1,Beverly Glenn-Copeland,<b>2024 | New Brunswick</b><br><b>Theme:</b> Introspection & Philosophy<br><b>Albums:</b> 1<br><b>Artists:</b> Beverly Glenn-Copeland,10
+2024,Nova Scotia,Introspection & Philosophy,1,Jon McKiel,<b>2024 | Nova Scotia</b><br><b>Theme:</b> Introspection & Philosophy<br><b>Albums:</b> 1<br><b>Artists:</b> Jon McKiel,10
+2024,Ontario,Experimental & Abstract,3,"Cindy Lee, BAMBII, Super Duty Tough Work","<b>2024 | Ontario</b><br><b>Theme:</b> Experimental & Abstract<br><b>Albums:</b> 3<br><b>Artists:</b> Cindy Lee, BAMBII, Super Duty Tough Work",24
+2024,Ontario,Introspection & Philosophy,6,"TOBi, Terra Lightfoot, Allie X","<b>2024 | Ontario</b><br><b>Theme:</b> Introspection & Philosophy<br><b>Albums:</b> 6<br><b>Artists:</b> TOBi, Terra Lightfoot, Allie X",48
+2024,Ontario,Love & Relationships,4,"The Beaches, Devours, Ducks Ltd.","<b>2024 | Ontario</b><br><b>Theme:</b> Love & Relationships<br><b>Albums:</b> 4<br><b>Artists:</b> The Beaches, Devours, Ducks Ltd.",32
+2024,Ontario,Social Commentary,2,"DijahSB, TALK","<b>2024 | Ontario</b><br><b>Theme:</b> Social Commentary<br><b>Albums:</b> 2<br><b>Artists:</b> DijahSB, TALK",16
+2024,Quebec,Experimental & Abstract,7,"BIG|BRAVE, TEKE::TEKE, Annie-Claude Deschênes","<b>2024 | Quebec</b><br><b>Theme:</b> Experimental & Abstract<br><b>Albums:</b> 7<br><b>Artists:</b> BIG|BRAVE, TEKE::TEKE, Annie-Claude Deschênes",56
+2024,Quebec,Identity & Heritage,2,"Elisapie, Dominique Fils-Aimé","<b>2024 | Quebec</b><br><b>Theme:</b> Identity & Heritage<br><b>Albums:</b> 2<br><b>Artists:</b> Elisapie, Dominique Fils-Aimé",16
+2024,Quebec,Introspection & Philosophy,3,"Helena Deland, La Force, Arielle Soucy","<b>2024 | Quebec</b><br><b>Theme:</b> Introspection & Philosophy<br><b>Albums:</b> 3<br><b>Artists:</b> Helena Deland, La Force, Arielle Soucy",24
+2024,Quebec,Love & Relationships,2,"Charlotte Cardin, Allison Russell","<b>2024 | Quebec</b><br><b>Theme:</b> Love & Relationships<br><b>Albums:</b> 2<br><b>Artists:</b> Charlotte Cardin, Allison Russell",16
+2024,Quebec,Place & Landscape,3,"Corridor, Population II, Karkwa","<b>2024 | Quebec</b><br><b>Theme:</b> Place & Landscape<br><b>Albums:</b> 3<br><b>Artists:</b> Corridor, Population II, Karkwa",24
+2024,Quebec,Social Commentary,2,"NOBRO, La Sécurité","<b>2024 | Quebec</b><br><b>Theme:</b> Social Commentary<br><b>Albums:</b> 2<br><b>Artists:</b> NOBRO, La Sécurité",16
