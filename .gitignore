@@ -1,0 +1,6 @@
+.DS_Store
+*.npy
+notebooks/final_model*/
+notebooks/tokenizer/
+notebooks/results/
+.ipynb_checkpoints/
